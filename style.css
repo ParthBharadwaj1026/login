@@ -1,0 +1,25 @@
+#body{
+    background-image: url(bg_1.jpg);
+    background-size: cover;
+}
+.log{
+    color: blueviolet;
+}
+.login_div1 , .login_div2
+	{
+		padding: 10px;
+		float: none;
+		color: rgb(66, 54, 133);
+	}
+.inp{
+	border-radius: 20px;
+	background-color: rgb(66, 54, 133);
+	color: white;
+}
+#btn{
+	border-radius: 10px;
+	font-size: larger;
+	background-image: linear-gradient(to bottom right,rgb(46, 97, 165),blueviolet);
+	background-size: cover;
+	color: gray;
+}
